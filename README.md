@@ -112,7 +112,7 @@
 
 ---
 
-### 💬 RealTime Service Marketplace
+### 💬 [RealTime Service Marketplace](https://github.com/Tasin44/RealTime-Service-Marketplace-api/)
 > Scalable marketplace with live chat, async notifications & optimized search
 
 - 🔌 **WebSocket-based real-time chat** using Django Channels (Daphne ASGI)
